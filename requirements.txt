@@ -3,3 +3,4 @@ torch
 kagglehub
 ultralytics
 opencv-python
+ipykernel
